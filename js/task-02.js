@@ -24,6 +24,7 @@ const images = [
     alt: 'Zebras on Zebra',
   },
 ];
+
 const gallery = document.querySelector('.gallery');
 
 const createImageElement = (imageUrl, imageAlt) => {
